@@ -47,13 +47,14 @@ margin_right = 998.0
 margin_bottom = 88.0
 
 [node name="Displaytext" type="Label" parent="."]
-margin_left = 25.0
+margin_left = 18.1982
 margin_top = 25.0
-margin_right = 998.0
-margin_bottom = 88.0
+margin_right = 991.198
+margin_bottom = 154.0
 custom_fonts/font = SubResource( 3 )
 text = "
 hello"
+autowrap = true
 
 [node name="PlayerButton" type="TextureButton" parent="."]
 margin_left = 788.464
